@@ -8,7 +8,7 @@ This project is a **Spring Boot-based RESTful API** designed to handle **user re
 - **Exception Handling**: Custom error responses ensure robustness.
 
 <p  align="center">
-<img src="images/user-registration-email-verification-api-diagram.png" alt="Diagram of user registration and email verification flow" width="800"/>
+<img src="images/user-registration-email-verification-api-diagram.png" alt="Diagram of user registration and email verification flow">
 </p>
 
 ## How to Use
@@ -134,7 +134,7 @@ This service handles CRUD (Create, Read, Update, Delete) operations for user man
 
 ---
 
-<img src="images/maildev-email-verification.png" alt="Email verification interface displayed in Maildev" width="800"/>
+<img src="images/maildev-email-verification.png" alt="Email verification interface displayed in Maildev">
 
 ## License
 
