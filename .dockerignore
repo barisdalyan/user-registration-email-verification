@@ -1,0 +1,48 @@
+# Ignore .git directory
+.git
+.gitignore
+
+# Ignore environment variables
+.env
+
+# Ignore everything in target/ except the JAR file
+target/*
+!target/*.jar
+
+# Ignore everything in build/ directory (if using Gradle)
+build/
+
+# Ignore Maven wrapper files except jar
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE-specific files
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/nb-gradle/
+
+# VS Code
+.vscode/
+
+# Ignore other temporary or log files
+*.log
+*.tmp
+*.swp
