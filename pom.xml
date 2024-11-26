@@ -11,7 +11,7 @@
 	<groupId>com.barisdalyanemre</groupId>
 	<artifactId>user-registration-email-verification</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>User Registration Email Verification</name>
+	<name>user-registration-email-verification</name>
 	<description>A Spring Boot application for user registration with email verification.</description>
 	<url/>
 	<licenses>
